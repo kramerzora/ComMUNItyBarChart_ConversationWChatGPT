@@ -1,6 +1,6 @@
 # ComMUNItyBarChat_ConversationWChatGPT
 
-##Description
+## Description
 
 Volunteering with ComMUNIty transit act. I receive the following instructions: <br>
 "I'm looking for some graphics to spruce it up, particularly around timelines and voter turnout breakdowns. I think it'd be cute to have slide 8 (Important Upcoming Dates) be a little timeline instead of two bullet points, similarly with slide 13. Could also do charts for the historical voter turnouts and number of votes we need to win" 
